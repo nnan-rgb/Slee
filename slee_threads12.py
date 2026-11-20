@@ -3778,7 +3778,7 @@ def main():
     print(f"⚙️  الحد الأقصى للخيوط: {MAX_CONCURRENT_THREADS}")
     print("=" * 60)
     
-    TARGET_URL = "https://moho-dhpmsx5n.manus.space"
+    TARGET_URL = "https://moho-w4dfwg4n.manus.space"
     
     # ═══════════════════════════════════════════════
     # 1. إدخال الأزرار (مرة واحدة لكل الخيوط)
