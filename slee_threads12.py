@@ -3778,7 +3778,7 @@ def main():
     print(f"⚙️  الحد الأقصى للخيوط: {MAX_CONCURRENT_THREADS}")
     print("=" * 60)
     
-    TARGET_URL = "https://krypto-3bwypq7z.manus.space"
+    TARGET_URL = "https://augenblick-jcrbqtnz.manus.space"
     
     # ═══════════════════════════════════════════════
     # 1. إدخال الأزرار (مرة واحدة لكل الخيوط)
